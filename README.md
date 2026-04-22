@@ -9,7 +9,7 @@ I help brands, startups, and local businesses build <b>fast</b>, <b>modern</b>, 
 </p>
 
 <p>
-  <a href="https://www.fiverr.com/s/pd1D8eN">
+  <a href="https://www.fiverr.com/s/NNxvzma">
     <img src="https://img.shields.io/badge/Hire%20Me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
   </a>
   <a href="https://github.com/CodeWithLiaqat">
@@ -151,7 +151,7 @@ I help brands, startups, and local businesses build <b>fast</b>, <b>modern</b>, 
 
 <div align="center">
 
-<a href="https://www.fiverr.com/s/pd1D8eN">
+<a href="https://www.fiverr.com/s/NNxvzma">
   <img src="https://img.shields.io/badge/Start%20Project%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
 </a>
 
