@@ -41,20 +41,31 @@ I help brands, startups, and local businesses build <b>fast</b>, <b>modern</b>, 
 
 ---
 
-## 🧩 Featured Work
+## 🖼️ Projects Preview
 
-### Portfolio Website (Elementor)
-**Goal:** Premium business presence with strong trust and clear CTA.  
-**Delivered:** Hero section, services, contact flow, responsive polish.
+<div align="center">
 
-<div align="start">
-  <img src="./homepage-design.jpg" alt="Project Desktop" width="30%" />
-  <img src="./section2-design.jpg" alt="Project Desktop" width="30%" />
-  <img src="./mobile.jpg" alt="Portfolio Mobile View" width="15%" />
-  <img src="./ipad.jpg" alt="Portfolio ipad View width="5% />
+<a href="./homepage-design.jpg">
+  <img src="https://img.shields.io/badge/Homepage%20Design-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+&nbsp;
+<a href="./section2-design.jpg">
+  <img src="https://img.shields.io/badge/Section%202%20Design-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+&nbsp;
+<a href="./mobile.jpg">
+  <img src="https://img.shields.io/badge/Mobile%20View-0F766E?style=for-the-badge&logo=android&logoColor=white" />
+</a>
+&nbsp;
+<a href="./ipad.jpg">
+  <img src="https://img.shields.io/badge/iPad%20View-0EA5E9?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
+&nbsp;
+<a href="./vidothumbnail.jpg">
+  <img src="https://img.shields.io/badge/Video%20Thumbnail-DC2626?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
 </div>
-
----
 
 ## 🎬 58-Second landing page Video
 
