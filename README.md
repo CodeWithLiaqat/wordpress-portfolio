@@ -59,7 +59,7 @@ I help brands, startups, and local businesses build <b>fast</b>, <b>modern</b>, 
 
 <div align="center">
   <a href="https://youtu.be/Ov7wFQ33MQQ="_blank">
-    <img src="YOUR_THUMBNAIL_IMAGE_LINK_HERE" alt="Watch 58-second portfolio video" width="80%" />
+    <img src="https://github.com/CodeWithLiaqat/wordpress-portfolio/blob/main/vidothumbnail.jpg" alt="Watch 58-second portfolio video" width="50%" />
   </a>
   <br/>
   <sub>▶ Click the preview to watch my 58-second WordPress landing page video.</sub>
