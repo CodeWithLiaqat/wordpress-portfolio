@@ -125,7 +125,7 @@ I help brands, startups, and local businesses build <b>fast</b>, <b>modern</b>, 
         <img src="https://img.shields.io/badge/Hire%20Me%20on%20codeics-1DBF73?style=for-the-badge&logo=codeics&logoColor=white" alt="Hire on codeics" />
       </a>
       <br/>
-      <sub>Need help? Order your WordPress project on Fiverr.</sub>
+      <sub>Need help? Order your WordPress project on My Website.</sub>
     </td>
     <td align="center" width="33.33%">
       <sub> </sub>
