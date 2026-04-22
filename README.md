@@ -43,9 +43,7 @@ I help brands, startups, and local businesses build <b>fast</b>, <b>modern</b>, 
 
 ## 🧩 Featured Work
 
-> Replace the image names below with your real files from `./assets/screenshots/`
-
-### 1) Portfolio Website (Elementor)
+### Portfolio Website (Elementor)
 **Goal:** Premium business presence with strong trust and clear CTA.  
 **Delivered:** Hero section, services, contact flow, responsive polish.
 
