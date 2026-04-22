@@ -50,7 +50,8 @@ I help brands, startups, and local businesses build <b>fast</b>, <b>modern</b>, 
 <div align="start">
   <img src="./homepage-design.jpg" alt="Project Desktop" width="30%" />
   <img src="./section2-design.jpg" alt="Project Desktop" width="30%" />
-  <img src="./mobile.jpg" alt="Portfolio Mobile View" width="10%" />
+  <img src="./mobile.jpg" alt="Portfolio Mobile View" width="15%" />
+  <img src="./ipad.jpg" alt="Portfolio ipad View width="5% />
 </div>
 
 ---
@@ -59,7 +60,7 @@ I help brands, startups, and local businesses build <b>fast</b>, <b>modern</b>, 
 
 <div align="center">
   <a href="https://youtu.be/Ov7wFQ33MQQ="_blank">
-    <img src="https://github.com/CodeWithLiaqat/wordpress-portfolio/blob/main/vidothumbnail.jpg" alt="Watch 58-second portfolio video" width="100%" />
+    <img src="https://github.com/CodeWithLiaqat/wordpress-portfolio/blob/main/vidothumbnail.jpg" alt="Watch 58-second portfolio video" width="88%" />
   </a>
   <br/>
   <sub>▶ Click the preview to watch my 58-second WordPress landing page video.</sub>
