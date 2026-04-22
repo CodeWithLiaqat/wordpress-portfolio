@@ -45,35 +45,14 @@ I help brands, startups, and local businesses build <b>fast</b>, <b>modern</b>, 
 
 > Replace the image names below with your real files from `./assets/screenshots/`
 
-### 1) Business Website (Elementor)
+### 1) Portfolio Website (Elementor)
 **Goal:** Premium business presence with strong trust and clear CTA.  
-**Delivered:** Hero section, services, testimonials, contact flow, responsive polish.
+**Delivered:** Hero section, services, contact flow, responsive polish.
 
-<div align="center">
-  <img src="./assets/screenshots/homepage-design.jpg" alt="Portfolio Website Desktop View" width="100%" />
-  <br/><br/>
-  <img src="./assets/screenshots/section2-design.jpg" alt="Portfolio Website Desktop View" width="100%" />
-  <img src="./assets/screenshots/mobile.jpg" alt="Portfolio Website Mobile View" width="42%" />
-</div>
-
----
-
-### 2) Lead Generation Landing Page
-**Goal:** Turn traffic into inquiries with focused messaging.  
-**Delivered:** Conversion-first headline, benefit blocks, FAQs, CTA placement.
-
-<div align="center">
-  <img src="./assets/screenshots/YOUR_PROJECT2_DESKTOP_IMAGE.jpg" alt="Landing Page Preview" width="100%" />
-</div>
-
----
-
-### 3) WooCommerce Store Setup
-**Goal:** Clean shopping experience with better mobile usability.  
-**Delivered:** Product page structure, cart/checkout flow, trust-focused layout.
-
-<div align="center">
-  <img src="./assets/screenshots/YOUR_PROJECT3_DESKTOP_IMAGE.jpg" alt="WooCommerce Store Preview" width="100%" />
+<div align="start">
+  <img src="./homepage-design.jpg" alt="Project Desktop" width="30%" />
+  <img src="./section2-design.jpg" alt="Project Desktop" width="30%" />
+  <img src="./mobile.jpg" alt="Portfolio Mobile View" width="10%" />
 </div>
 
 ---
@@ -86,42 +65,75 @@ I help brands, startups, and local businesses build <b>fast</b>, <b>modern</b>, 
 
 <div align="center">
 
-<a href="https://codeics.me/hosting">
-  <img src="https://img.shields.io/badge/Hosting%20Plans-111827?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</a>
-<p><sub>Compare plans for business websites and client projects.</sub></p>
+<table>
+  <tr>
+    <td align="center" width="33.33%">
+      <a href="https://codeics.me/hosting">
+        <img src="https://img.shields.io/badge/Hosting%20Plans-111827?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Hosting Plans" />
+      </a>
+      <br/>
+      <sub>Compare plans for blogs, business sites, and client projects.</sub>
+    </td>
+    <td align="center" width="33.33%">
+      <a href="https://codeics.me/kinsta">
+        <img src="https://img.shields.io/badge/Kinsta-4F46E5?style=for-the-badge&logo=kinsta&logoColor=white" alt="Kinsta" />
+      </a>
+      <br/>
+      <sub>Managed WordPress hosting focused on speed and security.</sub>
+    </td>
+    <td align="center" width="33.33%">
+      <a href="https://codeics.me/digital-ocean">
+        <img src="https://img.shields.io/badge/DigitalOcean-0EA5E9?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+      </a>
+      <br/>
+      <sub>Scalable cloud servers for growing websites and apps.</sub>
+    </td>
+  </tr>
 
-<a href="https://codeics.me/kinsta">
-  <img src="https://img.shields.io/badge/Kinsta-4F46E5?style=for-the-badge&logo=kinsta&logoColor=white" />
-</a>
-<p><sub>Managed WordPress hosting with excellent speed and security.</sub></p>
+  <tr>
+    <td align="center" width="33.33%">
+      <a href="https://codeics.me/elementor">
+        <img src="https://img.shields.io/badge/Elementor-7C3AED?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+      </a>
+      <br/>
+      <sub>Drag-and-drop builder for modern WordPress pages.</sub>
+    </td>
+    <td align="center" width="33.33%">
+      <a href="https://codeics.me/solidWP">
+        <img src="https://img.shields.io/badge/SolidWP-0F766E?style=for-the-badge&logo=wordpress&logoColor=white" alt="SolidWP" />
+      </a>
+      <br/>
+      <sub>WordPress security, backups, and maintenance tools.</sub>
+    </td>
+    <td align="center" width="33.33%">
+      <a href="https://codeics.me/learndash">
+        <img src="https://img.shields.io/badge/LearnDash-111827?style=for-the-badge&logo=learn&logoColor=white" alt="LearnDash" />
+      </a>
+      <br/>
+      <sub>Create and sell online courses with WordPress LMS.</sub>
+    </td>
+  </tr>
 
-<a href="https://codeics.me/digital-ocean">
-  <img src="https://img.shields.io/badge/DigitalOcean-0EA5E9?style=for-the-badge&logo=digitalocean&logoColor=white" />
-</a>
-<p><sub>Scalable cloud infrastructure for growing websites.</sub></p>
-
-<br/>
-
-<a href="https://codeics.me/elementor">
-  <img src="https://img.shields.io/badge/Elementor-7C3AED?style=for-the-badge&logo=elementor&logoColor=white" />
-</a>
-<p><sub>Professional page builder for modern WordPress design.</sub></p>
-
-<a href="https://codeics.me/solidWP">
-  <img src="https://img.shields.io/badge/SolidWP-0F766E?style=for-the-badge&logo=wordpress&logoColor=white" />
-</a>
-<p><sub>WordPress security, backups, and maintenance toolkit.</sub></p>
-
-<a href="https://codeics.me/learndash">
-  <img src="https://img.shields.io/badge/LearnDash-1F2937?style=for-the-badge&logo=learn&logoColor=white" />
-</a>
-<p><sub>Create and sell online courses on WordPress.</sub></p>
-
-<a href="https://codeics.me/pinterest">
-  <img src="https://img.shields.io/badge/Pinterest%20Traffic-DC2626?style=for-the-badge&logo=pinterest&logoColor=white" />
-</a>
-<p><sub>Drive long-term organic traffic with visual content.</sub></p>
+  <tr>
+    <td align="center" width="33.33%">
+      <a href="https://codeics.me/pinterest">
+        <img src="https://img.shields.io/badge/Pinterest%20Traffic-DC2626?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest Traffic" />
+      </a>
+      <br/>
+      <sub>Grow long-term organic traffic using Pinterest strategy.</sub>
+    </td>
+    <td align="center" width="33.33%">
+      <a href="https://www.fiverr.com/s/pd1D8eN">
+        <img src="https://img.shields.io/badge/Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire on Fiverr" />
+      </a>
+      <br/>
+      <sub>Need help? Order your WordPress project on Fiverr.</sub>
+    </td>
+    <td align="center" width="33.33%">
+      <sub> </sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
